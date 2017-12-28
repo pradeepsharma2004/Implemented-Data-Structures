@@ -1,0 +1,20 @@
+2)...... Data Structures:--------------
+_______________________________________________________
+2.1 Stacks.
+2.2 Queues .
+2.3 Linked List (Single Linked List, Doubly linked list, Circular linked list).
+2.4 Trees (Tree Traversals, Tree Operations, Binary Search Tree, AVL Tree)
+2.5 Hashing
+2.6 Heaps (Max Heap, Min Heap, Heap Sort)
+2.7 Graphs (Representation of graphs, BFS, DFS)
+2.8 Skip List
+2.9 Red-Black Trees
+2.10 B Trees
+2.11 B+ Trees
+2.12 Splay Trees
+2.13 Segment Trees
+2.14 Binomial Heap
+2.15 Fibonacci Heap
+2.16 Tries
+2.17 Ternary Search Tree
+2.18 Disjoint Sets
